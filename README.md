@@ -29,7 +29,7 @@ Execute the program using runserver command.
   <title>title</title>
       <body>
        <img src="/static/logo.png" height="100" width="540">
-         <table boarder="6"  cellspacing="4" cellpadding="4" bgcolor="violet">
+         <table border="6"  cellspacing="4" cellpadding="4" bgcolor="violet">
              <caption>MY TIME TABLE</caption>
 
                  <tr>
@@ -91,7 +91,7 @@ Execute the program using runserver command.
                 </tr>
 
          </table>
-         <table boarder="6" cellspacing="4" cellpadding="4" bgcolor="white">                                        
+         <table border="6" cellspacing="4" cellpadding="4" bgcolor="white">                                        
 
 <caption>SUBJECT AND THEIR RESPECTIVE SUBJECT CODES </caption>
                     <tr>
